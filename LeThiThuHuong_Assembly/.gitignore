@@ -1,6 +1,0 @@
-# Bỏ qua thư mục Visual Studio
-.vs/
-
-
-# Bỏ qua thư mục build
-/build/
