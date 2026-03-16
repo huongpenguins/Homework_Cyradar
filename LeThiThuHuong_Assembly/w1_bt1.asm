@@ -95,6 +95,9 @@ _main:
     push msgErr
     call _printf
     add esp,4
+    ; thoat chuong trinh
+    push 1    
+    call _exit
 
 ;------------
 ; kiem tra ki tu hop le va chuyen chuoi sang bin
